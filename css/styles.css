@@ -1,0 +1,72 @@
+body {
+	font-size: 16px;
+	background-color: #F8EEE7;
+	font-family: "Raleway", sans-serif;
+	color: #F8EEE7;
+	font-weight: 500;
+}
+
+/* Header */
+#header-nav {
+	background-color: #49274A;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand {
+  padding-top: 12px;
+}
+
+.navbar-brand h1 { /* Food, LLC */
+  font-family: "Playfair Display", serif;
+  color: #F8EEE7;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 1px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+/*Nav-List*/
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #F8EEE7;
+}
+#nav-list a:hover {
+  background: #94618E;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #94618E;
+}
+/* End Header */
+
+/* Content */
+h2 {
+	font-family: "Playfair Display", serif;
+	font-weight: 700;
+	font-size: 1.5em;
+	color: #49274A;
+	margin-top: -15px;
+	margin-bottom: 20px;
+}
+#page-heading h3 {
+	font-size: 1.3em;
+	font-weight: 700;
+}
+#chicken {
+	background: #94618E;
+}
+.row {
+	margin: 15px 15px 30px;
+}
+/* End Content*/
